@@ -4,7 +4,7 @@
   "name": "YouTube Remaining Time",
   "description": "Does what it says on the tin, with SponsorBlock supported, playback rate adjusted and multiple time formats available.",
   "author": "Nhân Trí",
-  "homepage_url": "https://github.com/tenkeyful/YouTube-Remaining-Time",
+  "homepage_url": "https://github.com/tenkeyful/youtube-remaining-time",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
